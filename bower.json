@@ -1,11 +1,12 @@
 {
-  "name": "vicbid",
-  "version": "0.0.0",
-  "homepage": "https://github.com/laotianstallion/vicbid",
+  "name": "angular-setup",
+  "description": "",
+  "main": "web.js",
   "authors": [
     "laotianstallion <rudy@zipnosis.com>"
   ],
-  "license": "MIT",
+  "license": "ISC",
+  "homepage": "https://github.com/laotianstallion/angular-setup",
   "ignore": [
     "**/.*",
     "node_modules",
